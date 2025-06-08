@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_pooling_objects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pooling_objects",
+  "parent":{
+    "name":"Pooling_Objects",
+    "path":"folders/Pooling_Objects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

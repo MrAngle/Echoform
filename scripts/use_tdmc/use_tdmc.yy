@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"use_tdmc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"use_tdmc",
+  "parent":{
+    "name":"Echoform",
+    "path":"Echoform.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
